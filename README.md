@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="150"/>
  <div id="badges">
  <img src="https://komarev.com/ghpvc/?username=Shamslux&style=flat-square&color=blue" alt=""/><br>
  <h1>
@@ -17,4 +17,14 @@
   </a>
 </div>
 </div>
+<div align="center">
+  <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="400" height="300"/>
+</div>
+---
+
+### :man_technologist: About Me :
+
+- :gear: I’m working as a Business Intelligence Analyst/Data Engineer and contributing with BI projects, chiefly in ETL development.
+
+- :seedling: Exploring Cloud Computing (AWS, Azure and GCP) and Data Engineering projects
 
