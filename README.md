@@ -6,6 +6,7 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+<h3 align="center">Junior BI Analyst | ETL Developer | Data Engineer</h3>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-paulo-m%C3%BCller-mamede-31a44a97/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -28,6 +29,12 @@
 - :gear: I’m working as a Business Intelligence Analyst/Data Engineer and contributing with BI projects, chiefly in ETL development.
 
 - :seedling: Exploring Cloud Computing (AWS, Azure and GCP) and Data Engineering projects
+
+- 💬 Ask me about **SQL, BI Methodology, Data Viz, Data Engineering**
+
+
+
+- 📫 How to reach me **jpmamed@gmail.com**
 
 ---
 
