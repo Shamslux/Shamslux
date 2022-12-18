@@ -20,6 +20,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="400" height="300"/>
 </div>
+
 ---
 
 ### :man_technologist: About Me :
@@ -27,6 +28,10 @@
 - :gear: I’m working as a Business Intelligence Analyst/Data Engineer and contributing with BI projects, chiefly in ETL development.
 
 - :seedling: Exploring Cloud Computing (AWS, Azure and GCP) and Data Engineering projects
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
@@ -41,3 +46,11 @@
   <img src="https://static.wikia.nocookie.net/logopedia/images/8/8c/Kisspng-power-bi-business-intelligence-microsoft-azure-mic-office-365-d-nieuwe-cloud-omgeving-dynamics-on-5be7b365088c80.991032501541911397035.png/revision/latest?cb=20200213050332" title="PowerBI" **alt="PowerBI" width="40" height="40"/>
  
 </div>
+
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shamslux&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shamslux&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
