@@ -38,6 +38,15 @@
 
 ---
 
+### 🔍 Trivia :
+
+- :book: - Bookworm
+- :green_heart: - Esperantisto
+- :martial_arts_uniform: - SKIF Shotokan Karate-Do 4th Kyu (Purple Belt :purple_circle:)
+- :video_game: - Gamer
+- :latin_cross: - Reformed Christian
+- :earth_americas: - Language and Culture Lover
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
