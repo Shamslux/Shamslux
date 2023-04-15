@@ -45,7 +45,7 @@
 - :latin_cross: - Reformed Christian
 - :earth_americas: - Language and Culture Lover
 
---
+---
 
 ### :speech_balloon: Languages (Natural Languages)
 
