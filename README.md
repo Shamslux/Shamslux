@@ -32,8 +32,6 @@
 
 - 💬 Ask me about **SQL, BI Methodology, Data Viz, Data Engineering**
 
-
-
 - 📫 How to reach me **jpmamed@gmail.com**
 
 ---
@@ -47,7 +45,31 @@
 - :latin_cross: - Reformed Christian
 - :earth_americas: - Language and Culture Lover
 
-### :hammer_and_wrench: Languages and Tools :
+--
+
+### :speech_balloon: Languages (Natural Languages)
+
+- :brazil: - Brazilian Portuguese (Native)
+- :us: - English (Advanced)
+- :globe_with_meridians: - Esperanto (Intermediate)
+- :fr: - French (Basic-Intermediate)
+- :es: - Spanish (Listening and Reading comprehension)
+- :syria: - Arabic (Basic)
+- :israel: - Modern Hebrew (Basic)
+- :de: - German (Elementar-Basic)
+- :greece: - Modern Greek (Elementar)
+
+---
+
+### :1st_place_medal: Main goal & :2nd_place_medal: Hobby :
+
+- :compass: - My main goal is focused on Data field, namely, I work as BI Analyst and want to migate to Data Engineering field.
+- :hash: - My hobby in IT involves Web Development and Software Development. I am currently studying more about Web Development, mainly to
+also support my brother-in-law and friend, who is now studying Web Development for his own career. 🙂
+
+---
+
+### :hammer_and_wrench: Main Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
@@ -63,6 +85,15 @@
   <img src="https://camo.githubusercontent.com/67fa3bed1236f9f279f609daa2489538b20f35fb58b89b126ac7e18c567aa99d/68747470733a2f2f6c6f676f6469782e636f6d2f6c6f676f2f313936303234342e706e67" title="Pentaho" **alt="Pentaho" width="40" height="40"/>
   <img src="https://static.wikia.nocookie.net/logopedia/images/8/8c/Kisspng-power-bi-business-intelligence-microsoft-azure-mic-office-365-d-nieuwe-cloud-omgeving-dynamics-on-5be7b365088c80.991032501541911397035.png/revision/latest?cb=20200213050332" title="PowerBI" **alt="PowerBI" width="40" height="40"/>
  
+</div>
+
+---
+
+### :hammer_and_wrench: Secondary Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="MySQL"  alt="HTML5" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" **alt="MSSQL" width="40" height="40"/>
 </div>
 
 ---
