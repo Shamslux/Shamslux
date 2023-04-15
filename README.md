@@ -63,7 +63,7 @@
 
 ### :1st_place_medal: Main goal & :2nd_place_medal: Hobby :
 
-- :compass: - My main goal is focused on Data field, namely, I work as BI Analyst and want to migate to Data Engineering field.
+- :dart: - My main goal is focused on Data field, namely, I work as BI Analyst and want to migate to Data Engineering field.
 - :hash: - My hobby in IT involves Web Development and Software Development. I am currently studying more about Web Development, mainly to
 also support my brother-in-law and friend, who is now studying Web Development for his own career. 🙂
 
