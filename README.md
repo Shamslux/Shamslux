@@ -50,14 +50,16 @@
 ### :speech_balloon: Languages (Natural Languages)
 
 - :brazil: - Brazilian Portuguese (Native)
-- :us: - English (Advanced)
-- :globe_with_meridians: - Esperanto (Intermediate)
-- :fr: - French (Basic-Intermediate)
-- :es: - Spanish (Listening and Reading comprehension)
-- :syria: - Arabic (Basic)
-- :israel: - Modern Hebrew (Basic)
-- :de: - German (Elementar-Basic)
-- :greece: - Modern Greek (Elementar)
+- :us: - English (Daily Usage, Advanced)
+- :fr: - French (Active Study, Basic-Intermediate)
+- :globe_with_meridians: - Esperanto (Active Study, Intermediate)
+- :es: - Spanish (No formal study, Listening and Reading comprehension)
+- :syria: - Arabic (Halted, Basic)
+- :israel: - Modern Hebrew (Halted, Basic)
+- :de: - German (Halted, Elementar-Basic)
+- :greece: - Modern Greek (Halted, Elementar)
+- :jp: - Japanese (Halted, Elementar)
+- :cn: - Mandarin (Halted, Basic)
 
 ---
 
