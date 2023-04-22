@@ -60,6 +60,7 @@
 - :greece: - Modern Greek (Halted, Elementar)
 - :jp: - Japanese (Halted, Elementar)
 - :cn: - Mandarin (Halted, Basic)
+- :brazil: - Nheengatu (Halted, Basic)
 
 ---
 
