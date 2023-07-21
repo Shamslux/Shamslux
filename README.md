@@ -3,7 +3,7 @@
  <div id="badges">
  <img src="https://komarev.com/ghpvc/?username=Shamslux&style=flat-square&color=blue" alt=""/><br>
  <h1>
-  hey there
+  Hi! Welcome to my Git!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <h3 align="center">Junior Data Engineer | ETL Developer | BI Analyst</h3>
@@ -17,9 +17,6 @@
     <img src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white" alt="Goodreads Badge"/>
   </a>
 </div>
-</div>
-<div align="center">
-  <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="400" height="300"/>
 </div>
 
 ---
@@ -36,7 +33,7 @@
 
 ---
 
-### 🔍 Trivia :
+<!-- ### 🔍 Trivia :
 
 - :book: - Bookworm
 - :green_heart: - Esperantisto
@@ -45,9 +42,9 @@
 - :latin_cross: - Reformed Christian
 - :earth_americas: - Language and Culture Lover
 
----
+--- -->
 
-### :speech_balloon: Languages (Natural Languages)
+<!-- ### :speech_balloon: Languages (Natural Languages)
 
 - :brazil: - Brazilian Portuguese (Native)
 - :us: - English (Daily Usage, Advanced)
@@ -62,13 +59,12 @@
 - :cn: - Mandarin (Halted, Basic)
 - :brazil: - Nheengatu (Halted, Basic)
 
----
+--- -->
 
 ### :1st_place_medal: Main goal & :2nd_place_medal: Hobby :
 
-- :dart: - My main goal is focused on Data field, namely, I work as BI Analyst and want to migate to Data Engineering field.
-- :hash: - My hobby in IT involves Web Development and Software Development. I am currently studying more about Web Development, mainly to
-also support my brother-in-law and friend, who is now studying Web Development for his own career. 🙂
+- :dart: - My main goal is focused on Data field as I work as Data Engineer.
+- :hash: - My hobby in IT involves Web Development and Software Development. 
 
 ---
 
@@ -82,17 +78,18 @@ also support my brother-in-law and friend, who is now studying Web Development f
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" **alt="Jenkins" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Apache_Hive_logo.svg" title="Hive" **alt="Hive" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg" title="Hadoop" **alt="Hadoop" width="100" height="40"/>
   <img src="https://hop.apache.org/tech-manual/latest/_images/logo/RGB/jpg/HOP_logo_RGB-1.jpg" title="HOP" **alt="HOP" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" **alt="Docker" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" **alt="Azure" width="40" height="40"/>
   <img src="https://camo.githubusercontent.com/67fa3bed1236f9f279f609daa2489538b20f35fb58b89b126ac7e18c567aa99d/68747470733a2f2f6c6f676f6469782e636f6d2f6c6f676f2f313936303234342e706e67" title="Pentaho" **alt="Pentaho" width="40" height="40"/>
   <img src="https://static.wikia.nocookie.net/logopedia/images/8/8c/Kisspng-power-bi-business-intelligence-microsoft-azure-mic-office-365-d-nieuwe-cloud-omgeving-dynamics-on-5be7b365088c80.991032501541911397035.png/revision/latest?cb=20200213050332" title="PowerBI" **alt="PowerBI" width="40" height="40"/>
- 
 </div>
 
----
-
 ### :hammer_and_wrench: Secondary Languages and Tools :
+
+--- 
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5"  alt="HTML5" width="40" height="40"/>&nbsp;
