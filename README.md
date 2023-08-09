@@ -23,7 +23,7 @@
 
 ### :man_technologist: About Me :
 
-- :gear: I work as Junior Data Engineer at Accenture.
+- :gear: I work as Data Engineer @ Accenture.
 
 - :seedling: Exploring Cloud Computing (AWS, Azure and GCP) and Data Engineering content.
 
