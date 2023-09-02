@@ -83,6 +83,7 @@
   <img src="https://hop.apache.org/tech-manual/latest/_images/logo/RGB/jpg/HOP_logo_RGB-1.jpg" title="HOP" **alt="HOP" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" **alt="Docker" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" **alt="Azure" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" **alt="AWS" width="40" height="40"/>
   <img src="https://camo.githubusercontent.com/67fa3bed1236f9f279f609daa2489538b20f35fb58b89b126ac7e18c567aa99d/68747470733a2f2f6c6f676f6469782e636f6d2f6c6f676f2f313936303234342e706e67" title="Pentaho" **alt="Pentaho" width="40" height="40"/>
   <img src="https://static.wikia.nocookie.net/logopedia/images/8/8c/Kisspng-power-bi-business-intelligence-microsoft-azure-mic-office-365-d-nieuwe-cloud-omgeving-dynamics-on-5be7b365088c80.991032501541911397035.png/revision/latest?cb=20200213050332" title="PowerBI" **alt="PowerBI" width="40" height="40"/>
 </div>
