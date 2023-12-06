@@ -21,7 +21,7 @@
 
 ---
 
-### :man_technologist: About Me :
+### 👨🏼‍💻 About Me :
 
 - :gear: I work as Data Engineer @ Accenture.
 
@@ -61,14 +61,14 @@
 
 --- -->
 
-### :1st_place_medal: Main goal & :2nd_place_medal: Hobby :
+### 🥇 Main goal & 🥈 Hobby :
 
-- :dart: - My main goal is focused on Data field as I work as Data Engineer.
-- :hash: - My hobby in IT involves Web Development and Software Development. 
+- 🎯 - My main goal is focused on Data field as I work as Data Engineer.
+- #️ - My hobby in IT involves Web Development and Software Development. 
 
 ---
 
-### :hammer_and_wrench: Main Languages and Tools :
+### 🛠️: Main Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
@@ -88,7 +88,7 @@
   <img src="https://static.wikia.nocookie.net/logopedia/images/8/8c/Kisspng-power-bi-business-intelligence-microsoft-azure-mic-office-365-d-nieuwe-cloud-omgeving-dynamics-on-5be7b365088c80.991032501541911397035.png/revision/latest?cb=20200213050332" title="PowerBI" **alt="PowerBI" width="40" height="40"/>
 </div>
 
-### :hammer_and_wrench: Secondary Languages and Tools :
+### 🛠️ Secondary Languages and Tools :
 
 --- 
 
@@ -99,7 +99,7 @@
 
 ---
 
-### :fire: My Stats :
+### 🔥 My Stats :
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shamslux&theme=blue-green)
 
