@@ -23,7 +23,7 @@
 
 ### 👨🏼‍💻 About Me :
 
-- :gear: I work as Data Engineer @ Accenture.
+- :gear: Open to work. Past: BI Analyst @ SPIRIT and OWSE; Data Engineer @ Accenture
 
 - :seedling: Exploring Cloud Computing (AWS, Azure and GCP) and Data Engineering content.
 
