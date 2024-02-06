@@ -102,6 +102,6 @@
 
 ### 🔥 My Stats :
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shamslux&theme=blue-green)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shamslux)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shamslux&theme=blue-green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shamslux&layout=compact)
