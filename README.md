@@ -23,7 +23,7 @@
 
 ### 👨🏼‍💻 About Me :
 
-- :gear: Open to work. Past: BI Analyst @ SPIRIT and OWSE; Data Engineer @ Accenture
+- :gear: Analytics Data Engineer @ Raízen
 
 - :seedling: Exploring Cloud Computing (AWS, Azure and GCP) and Data Engineering content.
 
