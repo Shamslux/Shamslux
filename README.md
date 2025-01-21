@@ -23,7 +23,7 @@
 
 ### 👨🏼‍💻 About Me :
 
-- :gear: Analytics Data Engineer @ Raízen
+- :gear: Data Engineer
 
 - :seedling: Exploring Cloud Computing (AWS, Azure and GCP) and Data Engineering content.
 
