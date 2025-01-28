@@ -88,7 +88,7 @@
   <img src="https://static.wikia.nocookie.net/logopedia/images/8/8c/Kisspng-power-bi-business-intelligence-microsoft-azure-mic-office-365-d-nieuwe-cloud-omgeving-dynamics-on-5be7b365088c80.991032501541911397035.png/revision/latest?cb=20200213050332" title="PowerBI" **alt="PowerBI" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg" title="Airflow" **alt="Airflow" width="40" height="40"/>
   <img src="https://github.com/user-attachments/assets/5f60fe18-cc79-477a-96b6-d5c117ce6fce" title="PySpark" **alt="PySpark" width="100" height="50"/>
-  <img src="https://seeklogo.com/images/D/dbt-logo-E4B0ED72A2-seeklogo.com.png" title="dbt" **alt="dbt" width="80" height="40"/>
+  <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/0*QdhM2lmpYcDzy1Xn" title="dbt" **alt="dbt" width="80" height="40"/>
 </div>
 
 ### 🛠️ Secondary Languages and Tools :
