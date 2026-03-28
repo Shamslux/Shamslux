@@ -66,9 +66,9 @@
 -->
 
 ---
-
+<!--
 ### 🔥 My Stats :
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shamslux)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shamslux&langs_count=20&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shamslux&langs_count=20&layout=compact)--!>
