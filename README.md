@@ -1,74 +1,61 @@
-<!--
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="150"/>
- <div id="badges">
- <img src="https://komarev.com/ghpvc/?username=Shamslux&style=flat-square&color=blue" alt=""/><br>
- <h1>
-  Hi! Welcome to my Git!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-<h3 align="center">Data Engineer | ETL Developer | BI Analyst</h3>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-paulo-m%C3%BCller-mamede-31a44a97/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.hackerrank.com/jpmamed">
-    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge"/>
-  </a>
-  <a href="https://www.goodreads.com/user/show/50697219-jo-o-paulo-m-ller-mamede">
-    <img src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white" alt="Goodreads Badge"/>
-  </a>
-</div>
-</div>
+# Hey, I'm João Paulo Müller 📊
+
+Data Engineer · Analytics Engineer
 
 ---
 
-### 👨🏼‍💻 About Me :
+## 🏗️ Core Engineering & Data Deliverables
 
-- :gear: Data Engineer
-- :seedling: Exploring Cloud Computing (AWS, Azure and GCP) and Data Engineering content.
-- 💬 Ask me about **SQL, BI Methodology, Data Viz, Data Engineering**
-- 📫 How to reach me **jpmamed@gmail.com**
+* **Scalable Distributed Processing** — Design and optimization of complex data pipelines using **PySpark and Python** to process large volumes of data.
+
+
+* **Modern Analytics Engineering** — Dimensional modeling and robust data transformations within **Azure Data Lake** environments, leveraging **dbt** to ensure high data quality and governance.
+
+
+* **Workflow Automation & Orchestration** — Centralizing and scheduling end-to-end automated workflows using **Apache Airflow, Apache Hop, and Jenkins**.
+
+
+* **Enterprise Database Architecture** — Dimensional modeling and tuning of complex SQL queries across corporate relational and distributed systems (**Oracle, SQL Server, and Hive**).
+
+
+* **Data Products & Insights** — Developing interactive **Power BI** dashboards integrated with complex business rules, translating raw data into actionable strategic insights for stakeholders.
+
+---
+
+## 🏆 Highlighted Work
+
+* **[Data-Engineering-AI-Solutions](https://github.com/Shamslux/Data-Engineering-AI-Solutions/tree/main)** — A curated repository of end-to-end data engineering projects. Demonstrates expertise in designing scalable ETL/ELT pipelines, implementing data quality frameworks, and integrating AI-driven workflows into modern data architectures.
+* **[Libro Tradukisto](https://github.com/Shamslux/libro-tradukisto)** — A high-utility Python CLI tool designed for the Esperanto community. It bridges the gap between language accessibility and AI by automating the translation of `.epub` literature using LLM integrations and free API wrappers, showcasing end-to-end software development and API orchestration skills.
 
 ---
 
-### 🥇 Main goal & 🥈 Hobby :
+## 🛠 Tech Stack
 
-- 🎯 - My main goal is focused on Data field as I work as Data Engineer.
-- #️ - My hobby in IT involves Web Development and Software Development. 
+### Data Engineering & Databases
+![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 
----
+### Orchestration & Big Data
+![](https://img.shields.io/badge/Airflow-017CE2?style=flat&logo=apache-airflow&logoColor=white)
+![](https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apache-hadoop&logoColor=black)
+![](https://img.shields.io/badge/Hive-FDE14C?style=flat&logo=apache-hive&logoColor=black)
 
-### 🛠️: Main Languages and Tools :
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Apache_Hive_logo.svg" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg" />
-</div>
-
-### 🛠️ Secondary Languages and Tools :
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" />
-</div>
--->
+### DevOps & Cloud
+![](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-web-services&logoColor=white)
+![](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
+![](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
-<!--
-### 🔥 My Stats :
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shamslux)
+## 📫 Let's Connect
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shamslux&langs_count=20&layout=compact)--!>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-paulo-m%C3%BCller-31a44a97/)
+![](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white) [](https://www.hackerrank.com/jpmamed)
+![](https://img.shields.io/badge/Goodreads-372213?style=flat&logo=goodreads&logoColor=white) [](https://www.goodreads.com/user/show/50697219-jo-o-paulo-m-ller-mamede)
+
+---
