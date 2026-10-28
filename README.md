@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Hey, I'm João Paulo Müller 📊
 **Data Engineer · Analytics Engineer**
 =======
@@ -9,7 +9,7 @@
   [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/jpmamed)
   [![Goodreads](https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white)](https://www.goodreads.com/user/show/50697219-jo-o-paulo-m-ller-mamede)
 </div>
->>>>>>> dd1df72 ((upnew): New profile design testing!)
+
 
 ## About Me
 
@@ -57,7 +57,7 @@ A **Python CLI** for translating `.epub` books for the Esperanto community using
 
 ---
 
-<<<<<<< HEAD
+
 ## 🏗️ Core Engineering & Data Deliverables
 
 * **Scalable Distributed Processing**  
