@@ -1,3 +1,4 @@
+
 <div align="center">
   <img src="./assets/banner.svg" alt="Shamslux — João Paulo Müller, Data Engineer and Analytics Engineer" width="100%" />
 </div>
@@ -30,7 +31,6 @@ I'm **João Paulo Müller (Shamslux)**, a **Data Engineer and Analytics Engineer
   <img src="./assets/tech-stack.svg" alt="Tech Stack" width="100%" />
 </div>
 
-
 **Data Engineering & Databases**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
@@ -50,7 +50,6 @@ I'm **João Paulo Müller (Shamslux)**, a **Data Engineer and Analytics Engineer
 **Frontend (Secondary)**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-
 
 <br />
 
@@ -73,11 +72,17 @@ A **Python CLI** for translating `.epub` books for the Esperanto community using
 <br />
 
 <div align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="Shamslux — 3D GitHub Contribution Graph" width="100%" />
+</div>
+
+<br />
+
+<div align="center">
   <img src="./assets/connect.svg" alt="Let's Connect" width="100%" />
   <br />
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-paulo-m%C3%BCller-31a44a97/"><img src="https://img.shields.io/badge/LinkedIn-0B1422?style=for-the-badge&logo=linkedin&logoColor=4DDCFF" alt="LinkedIn" /></a>
-  <a href="https://www.hackerrank.com/jpmamed"><img src="https://img.shields.io/badge/HackerRank-0B1422?style=for-the-badge&logo=hackerrank&logoColor=4DDCFF" alt="HackerRank" /></a>
-  <a href="https://www.goodreads.com/user/show/50697219-jo-o-paulo-m-ller-mamede"><img src="https://img.shields.io/badge/Goodreads-0B1422?style=for-the-badge&logo=goodreads&logoColor=4DDCFF" alt="Goodreads" /></a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-paulo-m%C3%BCller-31a44a97/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.hackerrank.com/jpmamed"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+  <a href="https://www.goodreads.com/user/show/50697219-jo-o-paulo-m-ller-mamede"><img src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white" alt="Goodreads" /></a>
 </div>
 
 <br />
