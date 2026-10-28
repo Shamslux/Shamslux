@@ -39,7 +39,7 @@ I'm **João Paulo Müller (Shamslux)**, a **Data Engineer and Analytics Engineer
 
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white) ![Apache Hop](https://img.shields.io/badge/Apache_Hop-5B67B0?style=flat-square&logoColor=white) ![Prefect](https://img.shields.io/badge/Prefect-3859FF?style=flat-square&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white) ![Hadoop](https://img.shields.io/badge/Hadoop-FFDB00?style=flat-square&logo=apachehadoop&logoColor=black) ![Hive](https://img.shields.io/badge/Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logoColor=black)
 
-**Backend**
+**Backend & Desktop Applications**
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 
@@ -49,7 +49,7 @@ I'm **João Paulo Müller (Shamslux)**, a **Data Engineer and Analytics Engineer
 
 **Frontend (Secondary)**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 <br />
 
@@ -67,7 +67,7 @@ A curated collection of end-to-end data engineering projects exploring **ETL/ELT
   <img src="./assets/libro-tradukisto.svg" alt="Libro Tradukisto — open project repository" width="100%" />
 </a>
 
-A **Python CLI** for translating `.epub` books for the Esperanto community using LLM integrations and API wrappers. Demonstrates application development, external API integration, and practical automation. [Explore the repository](https://github.com/Shamslux/libro-tradukisto).
+An open-source **desktop EPUB translation application** built with **Tauri v2, Rust, React, TypeScript, and Vite**. Combines a native Rust backend with a React interface, structural XHTML processing, human translation review, and integrations with **Google Translate, Gemini, OpenAI, Claude, and local AI endpoints**. Includes signed Windows installers and an in-app update mechanism. **Experimental release: v0.1.2**; EPUB export and end-to-end translation validation are ongoing. [Explore the repository](https://github.com/Shamslux/libro-tradukisto) · [Latest release](https://github.com/Shamslux/libro-tradukisto/releases/latest).
 
 <br />
 
