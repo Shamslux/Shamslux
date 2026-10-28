@@ -9,6 +9,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: profile-3d-contrib
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -17,6 +21,9 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v5
+        with:
+          ref: main
+          fetch-depth: 0
 
       - name: Generate 3D contributions
         uses: yoshi389111/github-profile-3d-contrib@latest
@@ -25,11 +32,24 @@ jobs:
           USERNAME: Shamslux
 
       - name: Commit and push generated SVGs
+        shell: bash
         run: |
+          set -euo pipefail
+
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile-3d-contrib/
-          if ! git diff --cached --quiet; then
-            git commit -m "chore: update 3D contribution graph"
-            git push
+
+          git add -- profile-3d-contrib/
+
+          if git diff --cached --quiet; then
+            echo "No changes in the 3D contribution graphs."
+            exit 0
           fi
+
+          git commit -m "chore: update 3D contribution graph"
+
+          # Integrate remote changes without overwriting existing commits.
+          git fetch origin main
+          git rebase origin/main
+
+          git push origin HEAD:main
