@@ -30,25 +30,27 @@ I'm **João Paulo Müller (Shamslux)**, a **Data Engineer and Analytics Engineer
   <img src="./assets/tech-stack.svg" alt="Tech Stack" width="100%" />
 </div>
 
+
 **Data Engineering & Databases**
 
-![Python](https://img.shields.io/badge/Python-0B1422?style=flat-square&logo=python&logoColor=4DDCFF) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B1422?style=flat-square&logo=postgresql&logoColor=4DDCFF) ![MySQL](https://img.shields.io/badge/MySQL-0B1422?style=flat-square&logo=mysql&logoColor=4DDCFF) ![SQL Server](https://img.shields.io/badge/SQL_Server-0B1422?style=flat-square&logoColor=4DDCFF) ![Oracle](https://img.shields.io/badge/Oracle-0B1422?style=flat-square&logo=oracle&logoColor=4DDCFF)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 
 **Orchestration, Big Data & Analytics**
 
-![Airflow](https://img.shields.io/badge/Airflow-0B1422?style=flat-square&logo=apacheairflow&logoColor=4DDCFF) ![Apache Hop](https://img.shields.io/badge/Apache_Hop-0B1422?style=flat-square&logoColor=4DDCFF) ![Prefect](https://img.shields.io/badge/Prefect-0B1422?style=flat-square&logoColor=4DDCFF) ![dbt](https://img.shields.io/badge/dbt-0B1422?style=flat-square&logo=dbt&logoColor=4DDCFF) ![Hadoop](https://img.shields.io/badge/Hadoop-0B1422?style=flat-square&logo=apachehadoop&logoColor=4DDCFF) ![Hive](https://img.shields.io/badge/Hive-0B1422?style=flat-square&logo=apachehive&logoColor=4DDCFF) ![PySpark](https://img.shields.io/badge/PySpark-0B1422?style=flat-square&logo=apachespark&logoColor=4DDCFF) ![Power BI](https://img.shields.io/badge/Power_BI-0B1422?style=flat-square&logoColor=4DDCFF)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white) ![Apache Hop](https://img.shields.io/badge/Apache_Hop-5B67B0?style=flat-square&logoColor=white) ![Prefect](https://img.shields.io/badge/Prefect-3859FF?style=flat-square&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white) ![Hadoop](https://img.shields.io/badge/Hadoop-FFDB00?style=flat-square&logo=apachehadoop&logoColor=black) ![Hive](https://img.shields.io/badge/Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logoColor=black)
 
 **Backend**
 
-![Django](https://img.shields.io/badge/Django-0B1422?style=flat-square&logo=django&logoColor=4DDCFF)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 
 **DevOps & Cloud**
 
-![AWS](https://img.shields.io/badge/AWS-0B1422?style=flat-square&logoColor=4DDCFF) ![Azure](https://img.shields.io/badge/Azure-0B1422?style=flat-square&logoColor=4DDCFF) ![Docker](https://img.shields.io/badge/Docker-0B1422?style=flat-square&logo=docker&logoColor=4DDCFF) ![Jenkins](https://img.shields.io/badge/Jenkins-0B1422?style=flat-square&logo=jenkins&logoColor=4DDCFF) ![Git](https://img.shields.io/badge/Git-0B1422?style=flat-square&logo=git&logoColor=4DDCFF)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 **Frontend (Secondary)**
 
-![HTML5](https://img.shields.io/badge/HTML5-0B1422?style=flat-square&logo=html5&logoColor=4DDCFF) ![CSS3](https://img.shields.io/badge/CSS3-0B1422?style=flat-square&logo=css&logoColor=4DDCFF) ![Bootstrap](https://img.shields.io/badge/Bootstrap-0B1422?style=flat-square&logo=bootstrap&logoColor=4DDCFF)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
 
 <br />
 
